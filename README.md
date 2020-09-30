@@ -9,7 +9,7 @@
 
 ## About the project
 
-Após o Clone do Projeto em sua IDE ou Editor de Código, execute o comando:
+After the Project Clone in your IDE or Code Editor, run the command:
 
 ```
     composer update
@@ -22,7 +22,7 @@ Após o Clone do Projeto em sua IDE ou Editor de Código, execute o comando:
 ```
     npm run dev
 ```
-Antes da instalação anterior certifique - se se você já tem o [Node js](https://nodejs.org/en/).
+Before the previous installation, make sure you already have the [Node js](https://nodejs.org/en/).
 
 ## Contributing
 
